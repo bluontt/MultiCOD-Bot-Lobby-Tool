@@ -1,6 +1,8 @@
 *NOTICE* This is a 90% recode of a non-working & non-english tool. Source is avalible elsewhere but will take ALOT of work.
 
 
+Setup video: https://youtu.be/O-JPpwfCXL0?feature=shared
+
 Application Setup Installer
 
 This repository contains a Windows setup executable for easy installation and configuration of BluXploit's MultiCOD-Bot-Lobby-Tool.
