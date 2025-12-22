@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Version 4.2.0**
+**Version 4.2.1**
 
 The ultimate multi-view browser tool for Call of Duty bot lobbies with powerful automation, multi-instance management, and AFK protection.
 
@@ -55,7 +55,7 @@ Multi-COD Bot Tool allows you to run multiple Call of Duty game instances simult
 
 ---
 
-## ✨ What's New in Version 4.2.0
+## ✨ What's New in Version 4.2.1
 
 This version introduces a refreshed user interface and a powerful new gameplay feature to enhance your experience.
 
@@ -137,7 +137,7 @@ This tool is provided "AS IS" without warranty of any kind. Use of automation so
 
 <div align="center">
 
-**Multi-COD Bot Tool 4.2.0**
+**Multi-COD Bot Tool 4.2.1**
 
 *Manage. Automate. Dominate.*
 
@@ -633,7 +633,7 @@ Most users prefer Linux VPS for cost and performance.
 
 <div align="center">
 
-**Multi-COD Bot Tool 4.2.0**
+**Multi-COD Bot Tool 4.2.1**
 
 *Manage. Automate. Dominate.*
 
