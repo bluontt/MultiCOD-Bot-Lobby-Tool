@@ -2,8 +2,6 @@
 
 <div align="center">
 
-**Version 4.2.1**
-
 The ultimate multi-view browser tool for Call of Duty bot lobbies with powerful automation, multi-instance management, and AFK protection.
 
 **Contact:** Discord: **BluXploit** | TikTok: **@Bluontt**
