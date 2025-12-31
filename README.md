@@ -2,6 +2,8 @@
 
 <div align="center">
 
+**Version 5.1.0**
+
 The ultimate multi-view browser tool for Call of Duty bot lobbies with powerful automation, multi-instance management, and AFK protection.
 
 **Contact:** Discord: **BluXploit** | TikTok: **@Bluontt**
@@ -53,7 +55,7 @@ Multi-COD Bot Tool allows you to run multiple Call of Duty game instances simult
 
 ---
 
-## ✨ What's New in Version 4.2.1
+## ✨ What's New in Version 4.2.0
 
 This version introduces a refreshed user interface and a powerful new gameplay feature to enhance your experience.
 
@@ -94,6 +96,9 @@ This version introduces a refreshed user interface and a powerful new gameplay f
 
 ## ❓ Frequently Asked Questions (FAQs)
 
+**Q: Why are there so many processes running in Task Manager (e.g., 36 processes for 10 views)?**  
+A: This is due to our **Double-View Architecture** designed for maximum stability. For each game instance, the app runs two separate processes: one for the game itself and one for its control bar (label/reload buttons). This ensures that if a game freezes, your controls remain responsive. Additionally, Chromium spawns several helper processes for GPU acceleration, networking, and audio to keep each bot session strictly isolated.
+
 **Q: How many instances can I run at once?**  
 A: The tool supports 1-44 views. Your actual limit depends on your PC specs and internet speed. Start with 10-15 views and increase if performance is good.
 
@@ -115,6 +120,7 @@ A: Recommended 25+ Mbps for 5-10 views. Add ~2-3 Mbps per additional view.
 **Troubleshooting:**
 - If your mouse cursor does not line up, use W, A, S, D to navigate and SPACE to select.
 - If the '@' symbol does not work, try refreshing the screen or restarting your PC.
+- If the app launches but no window ever appears, set `DISABLE_NATIVE_PROTECTION=true` in your `.env`, run `npm run secure:prepare`, then restart the app. This bypasses the native protection bootstrap on systems where it hangs.
 
 ---
 
@@ -135,7 +141,7 @@ This tool is provided "AS IS" without warranty of any kind. Use of automation so
 
 <div align="center">
 
-**Multi-COD Bot Tool 4.2.1**
+**Multi-COD Bot Tool 4.2.0**
 
 *Manage. Automate. Dominate.*
 
@@ -631,7 +637,7 @@ Most users prefer Linux VPS for cost and performance.
 
 <div align="center">
 
-**Multi-COD Bot Tool 4.2.1**
+**Multi-COD Bot Tool 4.2.0**
 
 *Manage. Automate. Dominate.*
 
