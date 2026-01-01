@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Version 5.1.0**
+
 
 The ultimate multi-view browser tool for Call of Duty bot lobbies with powerful automation, multi-instance management, and AFK protection.
 
